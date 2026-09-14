@@ -17,9 +17,7 @@ li {
   list-style: none;
 }
 
-a {
-  text-decoration: none;
-}
+
 
 main {
   background-color: #1f1f1f;
@@ -74,7 +72,7 @@ img {
   cursor: pointer;
 }
 .links {
-  color: #fff;
+  color: #ffffff;
   font-weight: 700;
   font-size: 14px;
 }
